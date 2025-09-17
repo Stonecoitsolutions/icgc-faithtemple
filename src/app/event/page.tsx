@@ -3,7 +3,9 @@ import React from 'react'
 
 
 export default function Event(){
-    return{
-      
-    }
+    return(
+        <>
+        <h1>Be part of this event</h1>
+        </>
+    )
 }
